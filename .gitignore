@@ -1,6 +1,38 @@
+# ML / Python
 *.zip
 *.rar
 *.tflite
-__pycache__/
 *.pyc
+__pycache__/
 .ipynb_checkpoints/
+
+# Android / Gradle (from remote)
+.gradle/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.aab
+*.apk
+output-metadata.json
+
+# IntelliJ / IDE
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Firebase / Google services
+google-services.json
+
+# Profiling
+*.hprof
